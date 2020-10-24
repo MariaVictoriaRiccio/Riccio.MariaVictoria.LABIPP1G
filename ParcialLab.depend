@@ -1,0 +1,573 @@
+# depslib dependency file v1.0
+1603224502 source:c:\users\toia\desktop\parcialprueba\parcialprueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+
+1603077043 source:c:\users\toia\desktop\parcialprueba\parcialprueba\color.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603063041 c:\users\toia\desktop\parcialprueba\parcialprueba\color.h
+
+1602546184 source:c:\users\toia\desktop\parcialprueba\parcialprueba\fecha.c
+	"fecha.h"
+	<stdio.h>
+
+1602546206 c:\users\toia\desktop\parcialprueba\parcialprueba\fecha.h
+
+1603221937 source:c:\users\toia\desktop\parcialprueba\parcialprueba\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+	"bicicletas.h"
+
+1603221729 c:\users\toia\desktop\parcialprueba\parcialprueba\servicios.h
+
+1603061014 source:c:\users\toia\desktop\parcialprueba\parcialprueba\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+
+1603059482 c:\users\toia\desktop\parcialprueba\parcialprueba\tipos.h
+
+1603220371 source:c:\users\toia\desktop\parcialprueba\parcialprueba\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"tipos.h"
+	"color.h"
+	"fecha.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+
+1603215333 c:\users\toia\desktop\parcialprueba\parcialprueba\bicicletas.h
+	"tipos.h"
+	"color.h"
+
+1603069442 c:\users\toia\desktop\parcialprueba\parcialprueba\trabajos.h
+	"servicios.h"
+	"bicicletas.h"
+	"tipos.h"
+
+1603237181 source:c:\users\toia\desktop\parcialprueba\parcialprueba\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"trabajos.h"
+	"tipos.h"
+	"validaciones.h"
+
+1603238611 source:c:\users\toia\desktop\parcialprueba\parcialprueba\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1603235447 c:\users\toia\desktop\parcialprueba\parcialprueba\validaciones.h
+	"color.h"
+	"tipos.h"
+	"bicicletas.h"
+	"servicios.h"
+
+1603372159 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"tipos.h"
+	"color.h"
+	"fecha.h"
+	"trabajos.h"
+	"servicios.h"
+	"clientes.h"
+	"validaciones.h"
+
+1603333949 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\bicicletas.h
+	"tipos.h"
+	"color.h"
+	"clientes.h"
+
+1603059482 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\tipos.h
+
+1603063041 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\color.h
+
+1602546206 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\fecha.h
+
+1603336806 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\trabajos.h
+	"servicios.h"
+	"bicicletas.h"
+	"tipos.h"
+
+1603221729 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\servicios.h
+
+1603372170 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\validaciones.h
+	"color.h"
+	"tipos.h"
+	"bicicletas.h"
+	"servicios.h"
+
+1603077043 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\color.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1602546184 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\fecha.c
+	"fecha.h"
+	<stdio.h>
+
+1603334907 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+
+1603221937 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+	"bicicletas.h"
+
+1603061014 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+
+1603332165 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"trabajos.h"
+	"tipos.h"
+	"validaciones.h"
+	"clientes.h"
+
+1603374252 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1603336831 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1603336791 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente\clientes.h
+
+1603336831 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1603491056 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\clientes.h
+
+1603077043 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\color.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603481689 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\color.h
+
+1602546184 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\fecha.c
+	"fecha.h"
+	<stdio.h>
+
+1603483953 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\fecha.h
+
+1603221937 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+	"bicicletas.h"
+
+1603484139 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\servicios.h
+
+1603487371 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\bicicletas.h
+	"tipos.h"
+	"color.h"
+	"clientes.h"
+
+1603487473 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\tipos.h
+
+1603487473 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+
+1603477470 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"trabajos.h"
+	"tipos.h"
+	"validaciones.h"
+	"clientes.h"
+
+1603486265 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\trabajos.h
+	"servicios.h"
+	"bicicletas.h"
+	"tipos.h"
+
+1603486585 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\validaciones.h
+	"color.h"
+	"tipos.h"
+	"bicicletas.h"
+	"servicios.h"
+
+1603476869 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1603489549 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+	"informes.h"
+
+1603491158 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"tipos.h"
+	"color.h"
+	"fecha.h"
+	"trabajos.h"
+	"servicios.h"
+	"clientes.h"
+	"validaciones.h"
+	"informes.h"
+
+1603483915 c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\informes.h
+
+1603484306 source:c:\users\toia\desktop\carpeta parcial 1 lab\parcial con cliente y 5 informes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+	"informes.h"
+
+1603496564 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"tipos.h"
+	"color.h"
+	"fecha.h"
+	"trabajos.h"
+	"servicios.h"
+	"clientes.h"
+	"validaciones.h"
+	"informes.h"
+
+1603492341 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\bicicletas.h
+	"tipos.h"
+	"color.h"
+	"clientes.h"
+
+1603491467 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\tipos.h
+
+1603481689 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\color.h
+
+1603491056 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\clientes.h
+
+1603498124 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\fecha.h
+
+1603486265 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\trabajos.h
+	"servicios.h"
+	"bicicletas.h"
+	"tipos.h"
+
+1603484139 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\servicios.h
+
+1603486585 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\validaciones.h
+	"color.h"
+	"tipos.h"
+	"bicicletas.h"
+	"servicios.h"
+
+1603498605 c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\informes.h
+
+1603493622 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1603077043 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\color.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603498138 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\fecha.c
+	"fecha.h"
+	<stdio.h>
+
+1603498600 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+	"informes.h"
+
+1603496038 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+	"informes.h"
+
+1603221937 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+	"bicicletas.h"
+
+1603487473 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+
+1603477470 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"trabajos.h"
+	"tipos.h"
+	"validaciones.h"
+	"clientes.h"
+
+1603476869 source:c:\users\toia\desktop\carpeta parcial 1 lab\parciallab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1603496564 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicletas.h"
+	"tipos.h"
+	"color.h"
+	"fecha.h"
+	"trabajos.h"
+	"servicios.h"
+	"clientes.h"
+	"validaciones.h"
+	"informes.h"
+
+1603492341 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\bicicletas.h
+	"tipos.h"
+	"color.h"
+	"clientes.h"
+
+1603491467 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\tipos.h
+
+1603481689 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\color.h
+
+1603491056 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\clientes.h
+
+1603498124 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\fecha.h
+
+1603486265 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\trabajos.h
+	"servicios.h"
+	"bicicletas.h"
+	"tipos.h"
+
+1603484139 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\servicios.h
+
+1603486585 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\validaciones.h
+	"color.h"
+	"tipos.h"
+	"bicicletas.h"
+	"servicios.h"
+
+1603498605 c:\users\toia\desktop\riccio.mariavictoria.labipp1g\informes.h
+
+1603493622 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1603077043 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\color.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603498138 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\fecha.c
+	"fecha.h"
+	<stdio.h>
+
+1603498600 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+	"informes.h"
+
+1603496038 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"fecha.h"
+	"bicicletas.h"
+	"fecha.h"
+	"tipos.h"
+	"trabajos.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+	"informes.h"
+
+1603221937 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+	"bicicletas.h"
+
+1603487473 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+
+1603477470 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"trabajos.h"
+	"tipos.h"
+	"validaciones.h"
+	"clientes.h"
+
+1603476869 source:c:\users\toia\desktop\riccio.mariavictoria.labipp1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
